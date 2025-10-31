@@ -1,1 +1,1 @@
-Repositório para atividades e projetos feitos durante a disciplina de métodos numéricos
+Repositório com as soluções das práticas propostas durante a disciplina Métodos Numéricos
